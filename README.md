@@ -14,4 +14,4 @@ In this repository, I've synthesized a number of online tutorials (cited in `mai
 
 `$ pipenv run ./main.py`
 
-NOTE: Prior to training, it will attempt to load the weights of the model from `weights/cp.ckpt` (which is written to after every epoch).
+NOTE: Prior to training, it will attempt to load the weights of the model from `weights/cp.ckpt` (written to after every epoch).
